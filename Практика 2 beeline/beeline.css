@@ -1,0 +1,162 @@
+body{
+    font-family: 'Didact Gothic', sans-serif;
+    margin: 0px;
+}
+#line_main{
+    background-color: #4e4e4e;
+    display: flex;
+    padding: 1px 0px;
+
+}
+
+#top_line_left{
+    width: 50%;
+}
+
+#top_line_left a{
+    margin-right: 25px;
+    color: white;
+}
+
+#top_line_left ul{
+    display: inline-flex;
+    list-style-type: none;
+
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#top_line_right{
+    margin-left: 400px;
+    display: inline-flex;
+
+    padding-top: 7px ;
+}
+
+#top_line_right div{
+    padding-top: 10px;
+    margin: 0px 10px;
+}
+
+#top_line_right a{
+    padding-bottom: 20px;
+    color: white;
+}
+
+#second_line{
+    display: inline-flex;
+    margin-left: 50px;
+
+}
+
+#second_line ul{
+    display: inline-flex;
+    
+}
+
+#second_line ul li{
+    list-style-type: none;
+    margin-right: 25px;
+    line-height: 2.2;
+}
+
+#second_line a{
+    color: black;
+    font-weight: bold;
+}
+#second_line a:hover{
+    color: rgb(253, 232, 42);
+}
+
+#second_line img:hover{
+    width: 150px; height: 150px;
+    transition: 1s;
+}
+
+#blog img{
+    width: 100%;
+}
+
+#pin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+#pin a{
+    color: black;
+    margin: 0px 20px;
+}
+
+#main_box{
+    display: inline-flex;
+   
+}
+
+#main_box div{
+    margin: 0px 10px;
+
+}
+
+#main_box img{
+    border-radius: 10px;
+}
+
+
+#kak_nibud{
+    width: 70%;
+    margin: 0 auto;
+}
+#main_galery{
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#galery{
+    display: inline-flex;
+}
+
+#galery div{
+    border:1px solid black;
+    padding: 10px;
+    margin-right: 10px;   
+}
+
+.img{
+    text-align: center;
+    border: none !important;
+    margin-right: 0px !important;
+    padding: 0px !important;
+}
+
+#galery img{
+    border-radius: 100%;
+   
+}
+
+footer{
+width: 100%;
+
+}
+
+#end{
+    float: left;
+    padding-left: 100px;
+}
+#end img{
+    width: 100px;
+    height: 100px;
+    
+}
+
+#end2{
+    float: right;
+    padding-right: 100px;
+}

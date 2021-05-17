@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    font-family: 'Muli', sans-serif;
+    
+}
+
+.top{
+    background-color: rgb(246,65,54);
+    display: inline-flex;
+    height: 3em;
+    width: 100%;
+}
+
+.top a{
+    text-decoration: none;
+    color: white;
+    line-height: 3;
+}
+
+.top_left{
+    margin-left: 100px;
+    margin-right: 400px;   
+}
+
+.top_right{
+    margin-left: 350px;
+   
+}
+
+.top_right a{
+    margin-right: 25px;
+}
+
+.top_left a:hover{
+    color: rgb(184,15,12);
+}
+
+
+.top_right a:hover{
+    color: rgb(184,15,12);
+}
+
+.top_img img{
+    width: 100%;
+}
+
+.container{
+    margin: 0 auto;
+    width: 80%;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+.text_main{
+    color: red;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.couple_img{
+    display: inline-flex;
+    justify-content: center;
+}
+
+.couple_img img{
+    height: 400px;
+    width: 50%;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.designer{
+    display: inline-flex;
+    width: 100%;
+
+}
+
+.worker{
+    background-color: rgb(241,241,241);
+    margin-left: 20px;
+    text-align: left;
+    
+}
+
+.info{
+    padding: 0px 20px;
+}
+
+.worker img{
+    width: 100%;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.speach{
+    line-height: 2.5;
+}
+
+footer{
+    background-color: rgb(188,176,176);
+    text-align: center;
+}
+
+footer p{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+form{
+    text-align: center;
+}
+  
+
+form input{
+    width: 100%;
+    height: 40px;
+    margin: 0px;
+}
+
+form p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.inside_div_form{
+    width: 100%;
+}
+
+#knopka{
+    background-color: red;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    padding: 0px;
+    text-align: center;
+}

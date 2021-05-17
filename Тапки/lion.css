@@ -1,0 +1,136 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 0px;
+}
+
+
+#top_line{
+    height: 2em;
+    line-height: 2;
+    background-color: rgb(32,32,32);
+    color: white;
+    text-align: center;
+
+}
+
+#top_line p{
+    margin: 0px;
+    font-size: 18px;
+}
+
+.nav{
+    width: 60%;
+    height: 100px;
+    margin: 0 auto;
+    background-color: rgb(255, 247, 247);
+    border: 2px solid black; 
+}
+
+.navigation{
+    display: inline-flex;
+}
+
+.logo{
+     margin-left: 10px;
+}
+
+.nav_ul{
+    padding-top: 25px;
+    margin-left: 50px;
+   
+}
+.nav_ul ul{
+    
+    list-style-type: none;
+    display: inline-flex;
+}
+.nav_ul a{
+    text-decoration: none;
+    margin-right: 70px;
+    color: black;
+}
+
+#main_galery{
+    width: 82.5%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#galery{
+    display: inline-flex;
+   
+}
+
+#galery div{
+    border:1px solid black;
+    margin-right: 15px;
+    text-align: center;
+
+}
+
+#symvoly_main{
+width: 85%;
+margin: 0 auto;
+}
+
+#symvoly{
+display: inline-flex;
+}
+
+#symvoly div{
+    margin-right: 50px;
+    margin-top: 20px;
+    width: 280px;
+    text-align: center;
+}
+
+#about_main{
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;  
+}
+
+#video{
+    margin: 25px;
+}
+
+#feedback_main{
+    text-align: center;
+}
+
+#feedback{
+    margin: 25px;
+}
+
+#form_line{
+width: 18%;
+margin: 0 auto;
+}
+
+#bottom_line{
+   
+    line-height: 1;
+   
+    
+}
+
+footer{
+    background-color: rgb(32,32,32);
+    padding: 25px;
+}
+
+#link_main{
+    width: 15%;
+    margin: 0 auto;
+}
+
+#link{    
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+#link div{
+    display: inline-flex;
+}
